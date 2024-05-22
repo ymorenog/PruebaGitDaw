@@ -7,7 +7,8 @@ public class ClasePrueba {
 		System.out.println("adios");
 		System.out.println("adios rama");
 		System.out.println("añado mensaje rama Nueva funcionalidad");
-		System.out.println("nuevo desde master");
+		System.out.println("nuevo mensaje desde rama nueva");
+
 	}
 
 }
